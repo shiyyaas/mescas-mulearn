@@ -132,7 +132,15 @@
       ]
     }
   ],
-  
+   "achievements": [
+    {
+    "title": "",
+      "description":"",
+      "images": [
+        ""
+      ]
+    }
+  ],
   "gallery": {
     "row1": [
       {
@@ -166,7 +174,7 @@
 
   
   "statistics": {
-    
+    "studentsCount":100,
     "activeMembers": 79,
     "InterestGroups": 1,
     "karmaEarned": 69550,
